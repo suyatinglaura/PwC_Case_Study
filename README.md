@@ -11,8 +11,9 @@ Sales performance and prediction
 - The small_appliances_home_oven_and_coffee category demonstrated the highest potential in terms of average bi-annual sales growth rate.
 - While the customer average spending and conversion rate remain consistent across all states, the total number of customers varies significantly.
 - It is recommended that more marketing efforts be directed towards attracting new customers in states with low customer numbers, while simultaneously upselling to existing customers.
+- Detailed explanations at [here](https://docs.google.com/presentation/d/1TJ-HXM40_bP2mPDdzPlSiVVkkXbtXDAtQCDe1RdYEbU/edit?usp=share_link)
 
 ## Access Source Code and Interactive Dashboard
 - Clone the git repository
-- Run python dashboard.py
-- thailand.csv is used to get the latitude and longitude of Thai states used for plotting
+- Place required datasets (including datasets provided for the case study, and thailand.csv used to get the latitude and longitude of Thai states) under the same directory as dashboard.py
+- Run `python dashboard.py`
